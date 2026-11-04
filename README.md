@@ -241,4 +241,4 @@ This repository serves as the official landing page for JustVoip. The software i
 **Get the most recent version of JustVoip today!**
 
 ---
-**Last updated:** 2026-11-04 16:44:40 UTC
+**Last updated:** 2026-11-04 22:19:48 UTC
